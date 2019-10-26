@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/huhisoft/autoplay-whitelist.git"
   },
-  "author": "Mark Pilgrim <mpilgrim@huhisoft.com>",
+  "author": "Huy Nguyen <huynq.cntt@gmail.com>",
   "license": "MPL-2.0",
   "gypfile": true,
   "bugs": {
